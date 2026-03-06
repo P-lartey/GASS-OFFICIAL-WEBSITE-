@@ -1,0 +1,1 @@
+This code is for the Ghana Association of Statistics website featuring, brief history of the association, statistics related online courses, alumini, learning resources, student life on campus, employment opportunities available in Ghana and outside Ghana
